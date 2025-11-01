@@ -1,8 +1,22 @@
-# gtest-sample
-G検定のAI生成練習問題サンプル（非公式） | Automatically generated G-Test practice questions using GPTs.
+# G検定 練習問題（ver1.0・中辛50問）
+
+個人で作成した **G検定 練習問題（非公式）** セットです。  
+AI（GPT）による自動生成をベースに、公式シラバス（v1.3_G2024#6）準拠で構成しています。
 
 ---
 
-**License:**  
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+### 📦 ダウンロード
+👉 [全50問_中辛_G検定練習問題.zip](https://github.com/gtest-factory/gtest_2024-6_v1.0/raw/main/%E5%85%A850%E5%95%8F_%E4%B8%AD%E8%BE%9B_G%E6%A4%9C%E5%AE%9A%E7%B7%B4%E7%BF%92%E5%95%8F%E9%A1%8C.zip)
 
+---
+
+### 🧠 収録内容
+- 全50問（中辛難易度）
+- 各問に正解・解説付き
+- HTML表示に最適化済み
+
+---
+
+### 🪪 ライセンス
+本リポジトリの内容は  
+[CC BY 4.0（表示必須・改変自由）](https://creativecommons.org/licenses/by/4.0/) のもとで公開しています。
